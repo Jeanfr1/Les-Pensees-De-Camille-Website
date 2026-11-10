@@ -226,7 +226,7 @@ Choices made where the kit and the request differed:
 
 - **Les Pensées de Camille** for the shop, the flowers and the photographs
 - [GSAP](https://gsap.com) for the animation engine
-- [Instrument Serif](https://github.com/Instrument/instrument-serif) and [Manrope](https://github.com/sharanda/manrope), both under the SIL Open Font License
+- [Instrument Serif](https://github.com/Instrument/instrument-serif) and [Manrope](https://fonts.google.com/specimen/Manrope), both under the SIL Open Font License
 
 <br />
 
