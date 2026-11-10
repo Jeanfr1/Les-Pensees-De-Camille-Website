@@ -1,0 +1,57 @@
+[
+  {
+    "viewport": 375,
+    "design_canvas_width": 375,
+    "desktop_scale": null,
+    "hero_title_px": 66,
+    "hero_floral_width_px": 400,
+    "hero_floral_natural_ratio": 0.8002853067047075,
+    "title_advance_upper_bound_px": 271.0,
+    "text_box_px": 327,
+    "method": "static breakpoint contract + real font advance metrics; not browser layout measurement"
+  },
+  {
+    "viewport": 768,
+    "design_canvas_width": 768,
+    "desktop_scale": null,
+    "hero_title_px": 82,
+    "hero_floral_width_px": 560,
+    "hero_floral_natural_ratio": 0.8002853067047075,
+    "title_advance_upper_bound_px": 336.69,
+    "text_box_px": 425,
+    "method": "static breakpoint contract + real font advance metrics; not browser layout measurement"
+  },
+  {
+    "viewport": 1024,
+    "design_canvas_width": 1024,
+    "desktop_scale": 1,
+    "hero_title_px": 92,
+    "hero_floral_width_px": 650,
+    "hero_floral_natural_ratio": 0.8002853067047075,
+    "title_advance_upper_bound_px": 377.75,
+    "text_box_px": 480,
+    "method": "static breakpoint contract + real font advance metrics; not browser layout measurement"
+  },
+  {
+    "viewport": 1440,
+    "design_canvas_width": 1024,
+    "desktop_scale": 1,
+    "hero_title_px": 92,
+    "hero_floral_width_px": 650,
+    "hero_floral_natural_ratio": 0.8002853067047075,
+    "title_advance_upper_bound_px": 377.75,
+    "text_box_px": 480,
+    "method": "static breakpoint contract + real font advance metrics; not browser layout measurement"
+  },
+  {
+    "viewport": 1920,
+    "design_canvas_width": 1024,
+    "desktop_scale": 1,
+    "hero_title_px": 92,
+    "hero_floral_width_px": 650,
+    "hero_floral_natural_ratio": 0.8002853067047075,
+    "title_advance_upper_bound_px": 377.75,
+    "text_box_px": 480,
+    "method": "static breakpoint contract + real font advance metrics; not browser layout measurement"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "mode": "built-in image generation",
+  "logo_status": "Raster restoration from supplied current signage and Instagram; not an official vector original",
+  "hero_status": "Illustrative campaign arrangement, not an actual product listing",
+  "prompts": {
+    "hero": {
+      "prompt": "Use case: product-photography / website campaign cutout. Create ONE photorealistic editorial floral arrangement isolated on a TRUE TRANSPARENT background for an existing French florist website. Image1 is the APPROVED WEBSITE BOARD: reproduce only the character of its HERO flowers at the top, not the web page, logo, text, buttons, layout or shop/staff. Image2 is botanical species/color guidance from the shop's real bouquet. Need a single airy, sculptural, life-size studio flower arrangement of pink gerberas (one large principal bloom facing three-quarter front), an ivory rose, tiny lilac and white baby's-breath blossoms, pink lisianthus, natural slender green leaves, very long delicate stems. Elegant photographic realism, natural imperfect petals, soft warm daylight, detailed petal translucency. Arrangement sits mostly in the RIGHT two thirds of a 4:5 canvas, with airy upper branches reaching left and one sweeping curved stem reaching lower left; ensure stems and flowers all inside the image with breathing room. Open organic structure, not a wrapped round bouquet, no vase, no holder, no person, no shadow rectangle or opaque background, no typography, no watermarks. Mostly botanical greens and pink/cream tones. Soft natural dimensional shading within the flowers, compositing-ready clean fine edges. This is an illustrative campaign asset, NOT a claimed product or shop photo. Output transparent background.",
+      "referenced_image_paths": [
+        "/workspace/scratch/eff9c653a6e7/generated_images/exec-4837f667-0b02-410e-b15a-cbe1bed688d6.png",
+        "/workspace/scratch/eff9c653a6e7/upload/Screenshot 2026-11-09 at 23.13.38.png"
+      ],
+      "transparent_background": true
+    },
+    "logo": {
+      "prompt": "Use case: faithful brand logo restoration, not a new logo design. Extract and carefully rectify the existing CURRENT logo from the black storefront sign in image1, corroborated by the Instagram profile logo in image2. Need a crisp flat 2D logo PNG on a TRUE TRANSPARENT background, high resolution wide compact 2:1 composition centered with small safe margins. Preserve its design and lettering accurately: a fine matte gold half botanical wreath at left curving up to a simple outlined gold faceted DIAMOND above; small gold uppercase descriptor 'BIJOUTERIE & FLEURS' above the main letters; large clean slightly irregular bold condensed black uppercase 'LES PENSÉES' with the correct acute accent; black handwritten brush-script 'de Camille' underneath, same generous flowing signature as current storefront. No flower symbol from the older website, no replacement monogram, no extra frame. Use nearly black #1B1D1B for main text and restrained gold #B7A075 for emblem and descriptor. Use the STORE FRONT SIGN spelling/arrangement and refine its perspective and resolution, removing the sign background entirely. No shadows, no checkerboard baked in, no gradients, no mockup, no shop, no arrow/download UI. Exact three text groups only: BIJOUTERIE & FLEURS / LES PENSÉES / de Camille. Transparent pixels around all lettering/emblem and through all counters. Preserve the actual current identity.",
+      "referenced_image_paths": [
+        "/workspace/scratch/eff9c653a6e7/upload/Screenshot 2026-11-09 at 23.17.00.png",
+        "/workspace/scratch/eff9c653a6e7/upload/Screenshot 2026-11-09 at 23.14.27.png"
+      ],
+      "transparent_background": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+file,role,ai_generated_or_restored,bytes,sha256
+brand/logo-restaurado-transparente.png,current signage raster restoration; not official vector master,True,587031,dd72847bdb0185882ba13443e64d3fcee1fe545f375f066d4ab0511b46de1aeb
+fonts/InstrumentSerif-Italic.ttf,local OFL font,False,71592,08939b8bdf534afec24ae0ef5e03f948940cd9a8fe08e7fecbad040e62327385
+fonts/InstrumentSerif-Regular.ttf,local OFL font,False,70012,498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88
+fonts/Manrope-Variable.ttf,local OFL font,False,164700,3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6
+images/campaign/hero-fleurs-transparente.png,illustrative campaign floral arrangement; not a product listing,True,2109377,0671066483223288c475a5a6e5ce10a626c7021c5763030db9c9646e55c53447
+images/originals/bouquet.png,real bouquet supplied by user,False,2775415,5f52854bf4cc841cba66beaa95f67321503d288a211365c0736715acd5aa085c
+images/originals/boutique.png,real commercial-gallery storefront supplied by user,False,4208202,bebd0d2a8e7534649fac9d1de0c41d711fde7e0f6fea6ce8765dbcd93ff2e0e9
+images/originals/instagram-reference.png,brand and social reference only,False,2623296,094a83eb08d355fca684159d563f2bc77d6f28d3e3df3f2d03964a34f4c4609f
+images/originals/rencontre.png,real person with planter supplied by user; identity not inferred,False,3867473,8028f3c4f5ca11f81098936ebe88a80a4adcac89524c323e9d08fa1931fecb5d
+images/originals/vitrine-fleurs.png,real flower display supplied by user,False,2764670,dc352b7db7d5fec24614575daae5f2f2cfe8c9c74102a6aefb2143bd102e2ab4
+references/Modelo1-Les-Mots-En-Fleurs-Aprovado.png,approved generated conceptual board; not HTML screenshot,True,2572181,ec02a2c321bdfa6634148da6432d78e4b0794994ecf955cd3293dea423c30a61
+references/concept-original.png,user style reference only,False,2336298,c831fcac7202ceb1048008e7306db9e5bfef979d23017d9bd7d2aee5bb66422b
+references/logo-historico-nao-utilizar.jpg,historical logo from public website; not used,False,52027,dbe73e4279a7ca3facc63541604d9e4f86bea927a215ad99a7416f5b428ae1bc
+site/assets/brand/logo.png,current signage raster restoration; not official vector master,True,587031,dd72847bdb0185882ba13443e64d3fcee1fe545f375f066d4ab0511b46de1aeb
+site/assets/fonts/InstrumentSerif-Italic.woff,local OFL font,False,35700,418dddc1f2e2a624923c9314d484b4ebf3eaec20095cca5cd9c2197d667592d1
+site/assets/fonts/InstrumentSerif-Regular.woff,local OFL font,False,35244,9edaa414ef39f13a9597a7cc765c73227bf23e6350194e846452b7fec1710e6e
+site/assets/fonts/Manrope-Variable.woff,local OFL font,False,67912,15a80fa5fc23d6a7cc1b7193d03ca208e5a0c74bc0f7b31f33268acd8231ff3e
+site/assets/images/bouquet.webp,real bouquet supplied by user,False,1476812,ed1d7541498a44c140cd91689f28851d421caa41942c42dc02199d4e432cd460
+site/assets/images/boutique.webp,real commercial-gallery storefront supplied by user,False,1914040,f5dfcda76fb849c6e55cf4cfd4346f42a0ec1193e484cb29c2ed362a17386826
+site/assets/images/hero-fleurs.webp,illustrative campaign floral arrangement; not a product listing,True,636810,f71f96d032e7bae496c57b5f3e70ab37d4e34ff9175cfe5ded747b8246702ff6
+site/assets/images/rencontre.webp,real person with planter supplied by user; identity not inferred,False,1807558,62c9019b5ff3011f1948316a33da738c47f3a2a318092ed7ec78c3cea64aaec1
+site/assets/images/vitrine-fleurs.webp,real flower display supplied by user,False,1463460,9e10b65950864a1517e92aff8648895e3973789e39e38d63c4a0348a6bcd7bf2

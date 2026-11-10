@@ -1,0 +1,118 @@
+[
+  {
+    "file": "brand/logo-restaurado-transparente.png",
+    "width": 1774,
+    "height": 887,
+    "mode": "RGBA",
+    "bytes": 587031,
+    "fully_transparent_fraction": 0.787
+  },
+  {
+    "file": "images/campaign/hero-fleurs-transparente.png",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGBA",
+    "bytes": 2109377,
+    "fully_transparent_fraction": 0.4893
+  },
+  {
+    "file": "images/originals/bouquet.png",
+    "width": 1334,
+    "height": 998,
+    "mode": "RGBA",
+    "bytes": 2775415
+  },
+  {
+    "file": "images/originals/boutique.png",
+    "width": 1352,
+    "height": 1692,
+    "mode": "RGBA",
+    "bytes": 4208202
+  },
+  {
+    "file": "images/originals/instagram-reference.png",
+    "width": 2048,
+    "height": 1548,
+    "mode": "RGBA",
+    "bytes": 2623296
+  },
+  {
+    "file": "images/originals/rencontre.png",
+    "width": 1362,
+    "height": 1692,
+    "mode": "RGBA",
+    "bytes": 3867473
+  },
+  {
+    "file": "images/originals/vitrine-fleurs.png",
+    "width": 1314,
+    "height": 986,
+    "mode": "RGBA",
+    "bytes": 2764670
+  },
+  {
+    "file": "references/Modelo1-Les-Mots-En-Fleurs-Aprovado.png",
+    "width": 758,
+    "height": 2073,
+    "mode": "RGB",
+    "bytes": 2572181
+  },
+  {
+    "file": "references/concept-original.png",
+    "width": 882,
+    "height": 1570,
+    "mode": "RGBA",
+    "bytes": 2336298
+  },
+  {
+    "file": "references/logo-historico-nao-utilizar.jpg",
+    "width": 1157,
+    "height": 1043,
+    "mode": "RGB",
+    "bytes": 52027
+  },
+  {
+    "file": "site/assets/brand/logo.png",
+    "width": 1774,
+    "height": 887,
+    "mode": "RGBA",
+    "bytes": 587031,
+    "fully_transparent_fraction": 0.787
+  },
+  {
+    "file": "site/assets/images/bouquet.webp",
+    "width": 1334,
+    "height": 998,
+    "mode": "RGB",
+    "bytes": 1476812
+  },
+  {
+    "file": "site/assets/images/boutique.webp",
+    "width": 1352,
+    "height": 1692,
+    "mode": "RGB",
+    "bytes": 1914040
+  },
+  {
+    "file": "site/assets/images/hero-fleurs.webp",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGBA",
+    "bytes": 636810,
+    "fully_transparent_fraction": 0.4893
+  },
+  {
+    "file": "site/assets/images/rencontre.webp",
+    "width": 1362,
+    "height": 1692,
+    "mode": "RGB",
+    "bytes": 1807558
+  },
+  {
+    "file": "site/assets/images/vitrine-fleurs.webp",
+    "width": 1314,
+    "height": 986,
+    "mode": "RGB",
+    "bytes": 1463460
+  }
+]

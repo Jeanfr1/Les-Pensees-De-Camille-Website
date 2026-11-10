@@ -1,0 +1,30 @@
+{
+  "baseline": 1024,
+  "max_desktop_scale": 1,
+  "targets": [
+    375,
+    768,
+    1024,
+    1440,
+    1920
+  ],
+  "desktop": {
+    "title_px": 92,
+    "hero_subject_px": 650,
+    "person_photo_px": 800,
+    "storefront_photo_height_px": 720
+  },
+  "mobile": {
+    "title_px": 66,
+    "hero_subject_px": 400,
+    "strategy": "independent readable reflow"
+  },
+  "forbidden": [
+    "viewport divided by raster board width",
+    "whole board as page",
+    "hero subject cover to arbitrary viewport",
+    "100vh pinned chapters"
+  ],
+  "background_exception": "Blurred ambient photo backgrounds may fill the viewport; the principal image retains explicit dimensions",
+  "verification": "static values and font metrics only; browser unavailable"
+}

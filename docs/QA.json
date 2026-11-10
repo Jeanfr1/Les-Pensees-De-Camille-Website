@@ -1,0 +1,722 @@
+{
+  "static_pass": true,
+  "checks": 142,
+  "passed": 142,
+  "failed": [],
+  "browser_qa": "UNVERIFIED",
+  "preview_error": "sites-preview: preview relay unavailable: No such file or directory (os error 2)",
+  "interaction_qa": "UNVERIFIED in browser; implemented code and syntax inspected",
+  "breakpoint_qa": "static contract + font metrics only; no screenshots",
+  "checks_detail": [
+    {
+      "check": "site/index.html: no duplicate IDs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/brand/logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/fonts/InstrumentSerif-Regular.woff",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/images/hero-fleurs.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: styles.css",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: app.js",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #contenu",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #accueil",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/brand/logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: img alt assets/brand/logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #creations",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #occasions",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #boutique",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #contact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #contact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #creations",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #contact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/images/hero-fleurs.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: img alt assets/images/hero-fleurs.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #creations",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/images/bouquet.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: img alt assets/images/bouquet.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #contact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #contact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #contact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/images/rencontre.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: img alt assets/images/rencontre.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: anchor #contact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/images/boutique.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: img alt assets/images/boutique.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: external rel https://www.google.com/maps/search/?api=1&query=Les%20Pens%C3%A9es%20de%20Camille%207%20avenue%20de%20la%20Monneraye%2044410%20Herbignac",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: external rel https://www.instagram.com/les_pensees_de_camille/",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: external rel https://www.google.com/maps/search/?api=1&query=Les%20Pens%C3%A9es%20de%20Camille%207%20avenue%20de%20la%20Monneraye%2044410%20Herbignac",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: external rel https://www.facebook.com/lespenseesdecamille",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: assets/images/bouquet.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "site/index.html: img alt assets/images/bouquet.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: no duplicate IDs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: site/assets/brand/logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: img alt site/assets/brand/logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: site/index.html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: README.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: docs/QA.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: site/index.html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: site/assets/images/hero-fleurs.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: img alt site/assets/images/hero-fleurs.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: brand/logo-restaurado-transparente.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: img alt brand/logo-restaurado-transparente.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: references/Modelo1-Les-Mots-En-Fleurs-Aprovado.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: img alt references/Modelo1-Les-Mots-En-Fleurs-Aprovado.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: site/index.html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: README.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: roteiros/01-DIRECAO-DE-ARTE.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: roteiros/02-HERO-E-ANIMACAO.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: roteiros/03-SECOES-E-TRANSICOES.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: roteiros/04-CONTEUDO-E-CONTATOS.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: roteiros/05-ASSETS-E-MARCA.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: roteiros/06-REVISAO-E-ENTREGA.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: brand/logo-restaurado-transparente.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "GUIA-VISUAL.html: docs/QA.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSS asset assets/fonts/InstrumentSerif-Regular.woff",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSS asset assets/fonts/InstrumentSerif-Italic.woff",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSS asset assets/fonts/Manrope-Variable.woff",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSS asset assets/images/bouquet.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSS asset assets/images/rencontre.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSS asset assets/images/boutique.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSS braces balanced",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "French page language",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Exactly five main chapters",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Approved heading and five chapter IDs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Main figure uses explicit width",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "No viewport-height pinning",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "No board PNG used in site",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Native scroll is not intercepted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Reduced motion and manual pause",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "No video, iframe or form",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "No remote CSS/scripts",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Correct phone",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Correct address",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Social links match supplied business",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Dialogs restore focus",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Gallery has contact fallback",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "No fake order confirmation",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: brand/logo-restaurado-transparente.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "True alpha: brand/logo-restaurado-transparente.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: images/campaign/hero-fleurs-transparente.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "True alpha: images/campaign/hero-fleurs-transparente.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: images/originals/bouquet.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: images/originals/boutique.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: images/originals/instagram-reference.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: images/originals/rencontre.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: images/originals/vitrine-fleurs.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: references/Modelo1-Les-Mots-En-Fleurs-Aprovado.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: references/concept-original.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: references/logo-historico-nao-utilizar.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: site/assets/brand/logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "True alpha: site/assets/brand/logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: site/assets/images/bouquet.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: site/assets/images/boutique.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: site/assets/images/hero-fleurs.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "True alpha: site/assets/images/hero-fleurs.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: site/assets/images/rencontre.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Image decodes: site/assets/images/vitrine-fleurs.webp",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact lossless photograph pixels: bouquet",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact lossless photograph pixels: vitrine-fleurs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact lossless photograph pixels: boutique",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact lossless photograph pixels: rencontre",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: motion/timeline.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: .openai/hosting.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/image-validation.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/selection.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/source-video-inventory.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/campaign-prompts.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/architecture-lock.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/scale-contract.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/source-photo-inventory.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/font-sources.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/business-sources.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/selected-state.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/asset-manifest.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/scale-measurements.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: docs/QA.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JSON parses: brand/tokens.json",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Font decodes: InstrumentSerif-Regular.woff",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Font decodes: InstrumentSerif-Italic.woff",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Font decodes: Manrope-Variable.woff",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "OFL included: Manrope-OFL.txt",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "OFL included: InstrumentSerif-OFL.txt",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "French accent glyphs available",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Title width fits its contract at 375px",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Title width fits its contract at 768px",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Title width fits its contract at 1024px",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Title width fits its contract at 1440px",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Title width fits its contract at 1920px",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Desktop scale cap in stylesheet",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Desktop dimensions remain equal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Kit includes roteiros/01-DIRECAO-DE-ARTE.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Kit includes roteiros/02-HERO-E-ANIMACAO.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Kit includes roteiros/03-SECOES-E-TRANSICOES.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Kit includes roteiros/04-CONTEUDO-E-CONTATOS.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Kit includes roteiros/05-ASSETS-E-MARCA.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Kit includes roteiros/06-REVISAO-E-ENTREGA.md",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "JavaScript syntax",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}

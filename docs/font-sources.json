@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/instrumentserif/InstrumentSerif-Regular.ttf",
+    "file": "fonts/InstrumentSerif-Regular.ttf"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/instrumentserif/InstrumentSerif-Italic.ttf",
+    "file": "fonts/InstrumentSerif-Italic.ttf"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/instrumentserif/OFL.txt",
+    "file": "fonts/InstrumentSerif-OFL.txt"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+    "file": "fonts/Manrope-Variable.ttf"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+    "file": "fonts/Manrope-OFL.txt"
+  }
+]

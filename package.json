@@ -1,0 +1,12 @@
+{
+  "name": "les-pensees-de-camille-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Les Pensées de Camille — Les mots en fleurs (Herbignac)",
+  "scripts": {
+    "dev": "npx --yes serve@14 site -l 4451",
+    "assets": "python3 scripts/prepare-hero.py && python3 scripts/prepare-images.py",
+    "qa": "node scripts/qa.mjs"
+  },
+  "devDependencies": { "playwright-core": "^1.50.0" }
+}

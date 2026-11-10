@@ -1,0 +1,41 @@
+{
+  "model": 1,
+  "title": "Les Mots en Fleurs",
+  "original_name": "Herbier vivant",
+  "reference": "references/Modelo1-Les-Mots-En-Fleurs-Aprovado.png",
+  "chapters": [
+    {
+      "id": "accueil",
+      "heading": "LES MOTS / EN FLEURS.",
+      "asset": "campaign floral cutout"
+    },
+    {
+      "id": "creations",
+      "heading": "Nos pensées prennent forme.",
+      "asset": "bouquet real photo"
+    },
+    {
+      "id": "occasions",
+      "heading": "Pour les grands jours. Et les petites attentions.",
+      "asset": "one charcoal contrast chapter"
+    },
+    {
+      "id": "boutique",
+      "heading": "Une boutique. Des envies à partager.",
+      "asset": "original woman with planter, face unaltered"
+    },
+    {
+      "id": "contact",
+      "heading": "Faisons fleurir vos envies.",
+      "asset": "original store entrance; footer inside photo"
+    }
+  ],
+  "no_reuse": [
+    "restaurant curves",
+    "three repeating diagonals",
+    "generic card grid",
+    "polaroid scrapbook",
+    "whole raster board as page"
+  ],
+  "photo_policy": "Original photos plus lossless export, native CSS crops; no generated faces"
+}

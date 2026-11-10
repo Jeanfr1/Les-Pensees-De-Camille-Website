@@ -1,0 +1,55 @@
+{
+  "name": "La phrase fleurit",
+  "video_generated": false,
+  "scroll": "native",
+  "pinning": false,
+  "scenes": [
+    {
+      "id": "accueil",
+      "text_ms": 1200,
+      "text_offset_y": 16,
+      "floral_intro_ms": 1800,
+      "floral_offset": [
+        18,
+        24
+      ],
+      "floral_rotation_deg": 2,
+      "breathing_ms": 9000,
+      "breathing_y": 7,
+      "breathing_rotation_deg": 0.45
+    },
+    {
+      "id": "creations",
+      "reveal_ms": 1000,
+      "offset_y": 18,
+      "stem_ms": 1600,
+      "once": true
+    },
+    {
+      "id": "occasions",
+      "reveal_ms": 1000,
+      "once": true
+    },
+    {
+      "id": "boutique",
+      "reveal_ms": 1000,
+      "once": true,
+      "real_photo_deformation": false
+    },
+    {
+      "id": "contact",
+      "reveal_ms": 1000,
+      "once": true
+    }
+  ],
+  "reduced_motion": {
+    "intro": false,
+    "breathing": false,
+    "stroke_animation": false,
+    "smooth_scroll": false,
+    "content_visible": true
+  },
+  "manual_pause": "Footer button, no persistence or tracking",
+  "enhancement": "IntersectionObserver; without it content stays visible",
+  "implementation": "CSS transforms/opacity, SVG stroke, JS observers; one floral plane, not a video"
+}

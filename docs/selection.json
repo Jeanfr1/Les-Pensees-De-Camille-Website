@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "name": "Les Mots en Fleurs",
+  "original_proposal": "Herbier vivant",
+  "hero": "LES MOTS / EN FLEURS.",
+  "chapters": 5,
+  "public_language": "fr",
+  "published": false,
+  "scale_baseline": 1024,
+  "approved_board": "references/Modelo1-Les-Mots-En-Fleurs-Aprovado.png"
+}

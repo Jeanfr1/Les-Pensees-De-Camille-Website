@@ -1,0 +1,55 @@
+{
+  "checked_on": "2026-11-09",
+  "name": "Les Pensées de Camille",
+  "address": "7 avenue de la Monneraye, 44410 Herbignac",
+  "phone": "+33251753861",
+  "email": "Lespenseesdecamille@gmail.com",
+  "sources": [
+    {
+      "url": "https://sasanthaldis.site-solocal.com/",
+      "type": "business public website",
+      "facts": [
+        "phone",
+        "email",
+        "hours",
+        "floristry and occasions",
+        "delivery radius 20 km"
+      ],
+      "limits": "Older site identity differs; current supplied signage takes priority; confirm exceptions before publication"
+    },
+    {
+      "url": "https://acceslibre.beta.gouv.fr/app/44-herbignac/a/fleuriste/erp/les-pensees-de-camille/",
+      "type": "public government directory",
+      "facts": [
+        "location",
+        "Facebook link"
+      ],
+      "limits": "No current certification of physical accessibility inferred"
+    },
+    {
+      "url": "https://www.pagesjaunes.fr/annuaire/herbignac-44/bouquet-de-fleurs",
+      "type": "business directory",
+      "facts": [
+        "floristry and jewellery",
+        "local delivery"
+      ],
+      "limits": "No frozen ratings or promotions"
+    },
+    {
+      "url": "https://www.instagram.com/les_pensees_de_camille/",
+      "type": "user supplied profile screenshot",
+      "facts": [
+        "current logo and handle"
+      ],
+      "limits": "Instagram page fetch was unavailable; supplied screenshot is source"
+    }
+  ],
+  "current_logo": "User supplied storefront and Instagram",
+  "people": "No identity or ownership inferred from portraits",
+  "hours": {
+    "monday_wednesday": "09:00–19:00",
+    "thursday_saturday": "09:00–19:30",
+    "sunday": "closed"
+  },
+  "copy": "New French editorial copy; no long quotations copied"
+}

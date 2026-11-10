@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bouquet",
+    "source_file": "Screenshot 2026-11-09 at 23.13.38.png",
+    "original": "images/originals/bouquet.png",
+    "role": "real business supplied photo",
+    "generative_edit": false,
+    "production_crop": "CSS framing only; source pixels retained"
+  },
+  {
+    "id": "vitrine-fleurs",
+    "source_file": "Screenshot 2026-11-09 at 23.13.20.png",
+    "original": "images/originals/vitrine-fleurs.png",
+    "role": "real business supplied photo",
+    "generative_edit": false,
+    "production_crop": "CSS framing only; source pixels retained"
+  },
+  {
+    "id": "boutique",
+    "source_file": "Screenshot 2026-11-09 at 23.17.00.png",
+    "original": "images/originals/boutique.png",
+    "role": "real business supplied photo",
+    "generative_edit": false,
+    "production_crop": "CSS framing only; source pixels retained"
+  },
+  {
+    "id": "rencontre",
+    "source_file": "Screenshot 2026-11-09 at 23.17.12.png",
+    "original": "images/originals/rencontre.png",
+    "role": "real business supplied photo",
+    "generative_edit": false,
+    "production_crop": "CSS framing only; source pixels retained"
+  },
+  {
+    "id": "instagram-reference",
+    "source_file": "Screenshot 2026-11-09 at 23.14.27.png",
+    "original": "images/originals/instagram-reference.png",
+    "role": "reference only; notices and promotions not evergreen",
+    "generative_edit": false,
+    "production_crop": "CSS framing only; source pixels retained"
+  }
+]
