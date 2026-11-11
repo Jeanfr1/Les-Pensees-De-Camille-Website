@@ -5,14 +5,15 @@
 <h3>A one-page website for a florist and jewellery boutique in Herbignac, where the bouquet blooms flower by flower and then unties itself into a sentence.</h3>
 
 <p>
-  <a href="#hero-animation"><strong>🎬 How the hero works</strong></a>
+  <a href="https://les-pensees-de-camille-herbignac.vercel.app"><strong>🌐 Live site</strong></a>
   &nbsp;·&nbsp;
-  <a href="#sections"><strong>🖥️ Sections</strong></a>
+  <a href="#hero-animation"><strong>🎬 How the hero works</strong></a>
   &nbsp;·&nbsp;
   <a href="#getting-started"><strong>🛠️ Run it locally</strong></a>
 </p>
 
 <p>
+  <a href="https://les-pensees-de-camille-herbignac.vercel.app"><img src="https://img.shields.io/badge/Vercel-Live-B7A075?style=for-the-badge&logo=vercel&logoColor=white" alt="Live on Vercel" /></a>
   <img src="https://img.shields.io/badge/HTML5-No_build-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5, no build step" />
   <img src="https://img.shields.io/badge/GSAP-ScrollTrigger-0AE448?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP ScrollTrigger" />
   <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JavaScript" />
@@ -34,7 +35,7 @@ Seven chapters in French take visitors from that first sentence to the shop door
 - **Everything from the shop's current site**: bouquets, compositions, plants, single stems, jewellery and gifts, weddings, birthdays and funeral flowers, delivery within 20 km and across France, payment methods, opening hours and contact details
 - **The real shop**: every photo below the hero is the boutique's own, shown at its real size with the viewer controls cropped out
 - **Clear path to the shop**: phone number in the header, a call button on phones, route, email, Instagram and Facebook
-- **Light**: 1.30 MB on first load on a phone, with no framework and nothing loaded from a CDN
+- **Light**: 1.18 MB on first load on a phone (measured on the live site), with no framework and nothing loaded from a CDN
 
 <br />
 
@@ -43,7 +44,7 @@ Seven chapters in French take visitors from that first sentence to the shop door
 ## 🎬 The hero animation
 
 <div align="center">
-  <img src=".github/assets/hero-scroll.gif" alt="The bouquet blooms flower by flower, the title rises, then the scroll unties the bouquet into a row of four flowers with a word under each and runs through every chapter down to the footer" width="100%" />
+  <a href="https://les-pensees-de-camille-herbignac.vercel.app"><img src=".github/assets/hero-scroll.gif" alt="The bouquet blooms flower by flower, the title rises, then the scroll unties the bouquet into a row of four flowers with a word under each and runs through every chapter down to the footer" width="100%" /></a>
   <sub>Captured from the running page at 1440 × 900</sub>
 </div>
 
@@ -130,8 +131,8 @@ The opening plays once per visit. Everything after it is tied to the scroll and 
 
 ## 💻 Tech stack
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><br />HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><br />CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><br />JavaScript | <img src="https://cdn.simpleicons.org/greensock/0AE448" width="40" height="40" /><br />GSAP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br />Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" /><br />OpenCV | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40" /><br />Playwright | <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="40" height="40" /><br />FFmpeg |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><br />HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><br />CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><br />JavaScript | <img src="https://cdn.simpleicons.org/greensock/0AE448" width="40" height="40" /><br />GSAP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br />Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" /><br />OpenCV | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40" /><br />Playwright | <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="40" height="40" /><br />FFmpeg | <img src="https://cdn.simpleicons.org/vercel/000000/ffffff" width="40" height="40" /><br />Vercel |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ### Why this stack?
 
@@ -199,7 +200,9 @@ npm run dev        # serves site/ on http://localhost:4451
 
 ## 🚀 Deployment
 
-The site is a static folder. On Vercel, set the output directory to `site` with no build command (`vercel.json` already says so). The page ships with `noindex` and has not been published yet.
+The site is live at **[les-pensees-de-camille-herbignac.vercel.app](https://les-pensees-de-camille-herbignac.vercel.app)**.
+
+The Vercel project is connected to this repository: every push to `main` deploys to production. `vercel.json` sets the output directory to `site` with no build command, so only that folder is served. The page ships with `noindex` until the shop's own domain is live.
 
 <br />
 
